@@ -3,7 +3,7 @@ package com.lsb;
 import java.io.File;
 import java.io.IOException;
 
-public class HelloWorld {
+public class HelloWorld1 {
     public static void main(String[] args) {
         File file = new File("/Users/edz/workspace/test001.txt");
         if(!file.exists()){
